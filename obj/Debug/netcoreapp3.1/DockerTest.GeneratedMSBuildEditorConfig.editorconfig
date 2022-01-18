@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DockerTest
+build_property.ProjectDir = /Users/gadzhievelnar/Projects/DockerTest/

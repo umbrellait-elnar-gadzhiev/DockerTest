@@ -1,0 +1,12 @@
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.Views.dll
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.Views.pdb
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.deps.json
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.runtimeconfig.json
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.runtimeconfig.dev.json
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/appsettings.Development.json
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/appsettings.json
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.dll
+/Users/gadzhievelnar/Projects/DockerTest/bin/Debug/DockerTest.pdb
+/Users/gadzhievelnar/Projects/DockerTest/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/gadzhievelnar/Projects/DockerTest/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/gadzhievelnar/Projects/DockerTest/obj/Debug/docker-compose.dcproj.CopyComplete
